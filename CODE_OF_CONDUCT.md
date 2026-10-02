@@ -2,50 +2,43 @@
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socioeconomic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
-
-We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+We pledge to make participation in our community a harassment-free experience for everyone. We are committed to creating an open, welcoming, diverse, inclusive, and healthy community.
 
 ## Our Standards
 
-Examples of behavior that contribute to a positive environment for our community include:
+Examples of behavior that contribute to a positive environment include:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall community
+* Being respectful and kind to others
+* Being open to different opinions and experiences
+* Giving and accepting constructive feedback
+* Taking responsibility for mistakes
+* Focusing on what is best for the community
 
-Examples of unacceptable behavior by participants include:
-
-* The use of sexualized language or imagery, and sexual attention or advances of any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address, without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a professional setting
+Unacceptable behavior includes harassment, insulting or derogatory comments, personal attacks, publishing private information without permission, and other conduct that is inappropriate in a professional setting.
 
 ## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+Community leaders are responsible for clarifying and enforcing our standards. They will take appropriate and fair corrective action in response to inappropriate, threatening, offensive, or harmful behavior.
 
-Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+Community leaders may remove, edit, or reject contributions that do not follow this Code of Conduct.
 
 ## Scope
 
-This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
-
-Examples of representing our community include using an official email address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+This Code of Conduct applies within all community spaces and also applies when an individual is officially representing the community in public spaces.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders. All complaints will be reviewed and investigated promptly and fairly. Community leaders will respect the privacy and security of the person reporting an incident.
 
-All complaints will be reviewed and investigated promptly and fairly.
+## Enforcement Guidelines
 
-Community leaders are obligated to respect the privacy and security of the reporter of any incident.
+Community leaders will follow these guidelines when responding to violations:
+
+1. Take appropriate action based on the nature and severity of the violation.
+2. Give individuals an opportunity to understand and correct their behavior when appropriate.
+3. Remove or restrict contributions that violate this Code of Conduct.
+4. Take stronger action when serious or repeated violations occur.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.1, available at https://www.contributor-covenant.org/version/2/1/code_of_conduct.html.
-
-Community Impact Guidelines were inspired by Mozilla's code of conduct enforcement ladder.
+This Code of Conduct is adapted from the Contributor Covenant, version 2.1.
